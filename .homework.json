@@ -1,0 +1,15 @@
+{
+    "name": "add_jquery",
+    "version": "0.0.1",
+    "title": "Add JQuery",
+    "description": "Given an existing application, add JQuery to give a page more functionality.",
+    "difficultyModes": [
+        "Normal",
+        "Hard"
+    ],
+    "keywords": [
+        "JQuery",
+        "Rails",
+        "Ruby"
+    ]
+}
